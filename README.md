@@ -37,8 +37,9 @@ wget https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names
 
 ### Run
 moniterについては作成中です。検出した異常な物体を保存するプログラムを作成します。detectionで検出ボックスがでてきて、リアルタイム検出ができます。フレームレートはかなり低いですが、、、。
+```bash
 $ (yolo) python3 detection.py
-
+```
 
 
 
